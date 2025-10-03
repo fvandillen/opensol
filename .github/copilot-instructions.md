@@ -1,0 +1,1 @@
+# opensol Copilot instructions
