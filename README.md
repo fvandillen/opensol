@@ -1,7 +1,8 @@
 # opensol
 A research project for administrative software used by scouting groups.
 
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/da011f8c-16a2-4175-8038-1f0d9870825c" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/ac995e2c-766f-44b0-8cef-e0ca24dc1392" />
+
 
 
 ## Project goals
