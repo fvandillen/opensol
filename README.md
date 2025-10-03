@@ -1,6 +1,9 @@
 # opensol
 A research project for administrative software used by scouting groups.
 
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/da011f8c-16a2-4175-8038-1f0d9870825c" />
+
+
 ## Project goals
 The goal of ScoutsOnline 4 is to provide a modern, efficient, and user-friendly administration system for Scouting Nederland. The system aims to streamline administrative tasks, improve communication, and enhance the overall experience for scouts, leaders, and administrators.
 
